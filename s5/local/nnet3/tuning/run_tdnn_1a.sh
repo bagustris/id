@@ -115,7 +115,7 @@ fi
 
 exit 0;
 
-wait;
-
 # score
 for x in exp/nnet3/tdnn_1a/decode_*; do [ -d $x ] && grep WER $x/wer_* | utils/best_wer.sh; done
+
+wait;
