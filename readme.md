@@ -1,7 +1,8 @@
 ## id
 
 ### iban-recipe based Indonesian speech recognition
-structured by Bagus Tris Atmaja (btatmaja@gmail.com)  
+Structured by Bagus Tris Atmaja (btatmaja@gmail.com), presentend on ASJ Spring Meeting 2019, UEC Tokyo.
+
 
 Notes : 
 - steps and utils folder are needed, please copy (or softlink) from either iban or wsj directory.  
