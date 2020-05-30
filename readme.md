@@ -10,3 +10,10 @@ Notes :
 - Used Kaldi commit = 0e5d755fdbe8a746223f05bcf7243107618ecaf7
 - For single GPU, set exclusive mode via `sudo nvidia-smi -c 3`
 - Latex template for beamer slide: https://github.com/bagustris/beamer-nomi
+
+Citation
+If you use part of this method or used for benchmarking, please cite the included pdf paper.
+```
+Atmaja, B.T., Arifianto, D., Akhmad, F., Akagi, M., 2019. “Speech recognition on Indonesian 
+language by using time delay neural network.” ASJ Spring Meeting, Tokyo, pp 1291–1294.
+```
